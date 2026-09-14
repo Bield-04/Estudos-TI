@@ -1,0 +1,14 @@
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/obj/Debug/net10.0/IdadeFutura.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/obj/Debug/net10.0/IdadeFutura.AssemblyInfoInputs.cache
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/obj/Debug/net10.0/IdadeFutura.AssemblyInfo.cs
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/obj/Debug/net10.0/IdadeFutura.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/bin/Debug/net10.0/IdadeFutura
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/bin/Debug/net10.0/IdadeFutura.deps.json
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/bin/Debug/net10.0/IdadeFutura.runtimeconfig.json
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/bin/Debug/net10.0/IdadeFutura.dll
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/bin/Debug/net10.0/IdadeFutura.pdb
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/obj/Debug/net10.0/IdadeFutura.dll
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/obj/Debug/net10.0/refint/IdadeFutura.dll
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/obj/Debug/net10.0/IdadeFutura.pdb
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/obj/Debug/net10.0/IdadeFutura.genruntimeconfig.cache
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/IdadeFutura/obj/Debug/net10.0/ref/IdadeFutura.dll

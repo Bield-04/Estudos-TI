@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7zO0wWL2saY=",
+  "success": true,
+  "projectFilePath": "/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/Temperatura.csproj",
+  "expectedPackageFiles": [
+    "/home/gabriel/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

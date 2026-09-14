@@ -1,0 +1,14 @@
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/obj/Debug/net10.0/Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/obj/Debug/net10.0/Temperatura.AssemblyInfoInputs.cache
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/obj/Debug/net10.0/Temperatura.AssemblyInfo.cs
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/obj/Debug/net10.0/Temperatura.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/bin/Debug/net10.0/Temperatura
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/bin/Debug/net10.0/Temperatura.deps.json
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/bin/Debug/net10.0/Temperatura.runtimeconfig.json
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/bin/Debug/net10.0/Temperatura.dll
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/bin/Debug/net10.0/Temperatura.pdb
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/obj/Debug/net10.0/Temperatura.dll
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/obj/Debug/net10.0/refint/Temperatura.dll
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/obj/Debug/net10.0/Temperatura.pdb
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/obj/Debug/net10.0/Temperatura.genruntimeconfig.cache
+/home/gabriel/Documents/Estudos-TI/csharp-lab/01-fundamentos/Temperatura/obj/Debug/net10.0/ref/Temperatura.dll
